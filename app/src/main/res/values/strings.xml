@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trabalho1</string>
+    <string name="toggle_on">On</string>
+    <string name="toggle_off">Off</string>
+    <string name="btn_display">Display</string>
+
+    <string-array name="sports_array">
+        <item>A pedra filosofal</item>
+        <item>Prisioneiro de Askaban</item>
+        <item>Camara Secreta</item>
+        <item>Calice de fogo</item>
+        <item>Ordem da Fenix</item>
+        <item>Enigma do Principe</item>
+        <item>Reliquias da Morte</item>
+
+    </string-array>
+
+</resources>
